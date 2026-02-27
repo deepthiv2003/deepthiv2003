@@ -36,7 +36,7 @@
 
 # 🚀 Key Projects
 
-🌾 **Smart Agri Farm (MERN Stack)**  
+🌾 **Smart Agri Farm**  
 Rainfall prediction & crop recommendation system.
 🔗 [View Project](https://github.com/deepthiv2003/Smart-Agri-Farm)
 
