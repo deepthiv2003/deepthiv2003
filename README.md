@@ -29,7 +29,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 🖥️ Tools & Technologies
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
@@ -37,14 +36,9 @@
 
 # 🚀 Key Projects
 
-📌 **Crime Trend Analysis & Prediction**  
-Applied EDA, PCA, Clustering & ML models for trend analysis.
-
-📌 **Automated People Counting (Computer Vision)**  
-Implemented tracking using background subtraction & object tracking (without deep learning).
-
-📌 **Smart Agri Farm (MERN Stack)**  
+🌾 **Smart Agri Farm (MERN Stack)**  
 Rainfall prediction & crop recommendation system.
+🔗 [View Project](https://github.com/deepthiv2003/Smart-Agri-Farm)
 
 ---
 
@@ -58,15 +52,10 @@ Rainfall prediction & crop recommendation system.
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/deepthiv2003/deepthiv2003/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-v-277959324)  
+🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/deepthi-v-277959324)  
 📧 Email: deepthiv.2003@gmail.com  
 
 ---
