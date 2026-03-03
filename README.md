@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Deepthi+V+👋;MCA+Student+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Consistent+Learner+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepthi+V+👋;MCA+Student+%7C+Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Consistent+Learner+%7C+Problem+Solver" />
 </p>
 
 ---
